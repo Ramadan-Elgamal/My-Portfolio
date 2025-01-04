@@ -1,0 +1,252 @@
+{
+  "Description": "",
+  "Features": ["Add User Bio and Project / Starups", "Apply more than 20+ themes","Visitor tracking throw charts"],
+  "Github": "",
+  "Img": "",
+  "Link": "",
+  "TechStack": [
+    "NextJs",
+    "TailwindCss",
+    "Drizzle",
+    "PostgreSql",
+    "Clerk",
+    "Daisy UI"
+  ],
+  "Title": "FullStack Portfolio Builder App"
+},
+{
+  "Description": "user-friendly platform that allows you to create a single, customizable landing page containing all your important links. Perfect for social media bios, it helps you share your content, websites, or services efficiently with your audience, streamlining navigation and enhancing accessibility across platforms.",
+  "Features": [
+  "Customizable link page to share multiple links in one place",
+  "Analytics tracking to monitor clicks and engagement",
+  "Seamless integration with social media platforms"
+],
+  "Github": "",
+  "Img": "",
+  "Link": "",
+  "TechStack": [
+    "Nextjs",
+    "tailwind",
+    "mongodb"
+  ],
+  "Title": "fullstack Linktree clone"
+},
+{
+  "Description": "It is a project aimed at developing an innovative solution for streamlining student attendance tracking in educational institutions. Utilizing Bluetooth technology, this project focuses on creating a system that enables teachers to efficiently mark attendance for large classes, significantly reducing the time and effort traditionally required for this task.",
+  "Features": ["Attendance Record With Mark student Present and Absent",
+  "DateWise and Monthly Attendance Tracking","Build Modern Dashboard and integrate Bar and Pie Char"],
+  "Github": "",
+  "Img": "",
+  "Link": "",
+  "TechStack": [
+    "React",
+    "MySql",
+    "Tailwind",
+    "Drizzle"
+  ],
+  "Title": "Student Attendence Tracking"
+},
+{
+  "Description": "This web-based application allows administrators to create and manage courses, track user progress, and deliver educational materials effectively. The frontend is built using React.js, offering a dynamic user interface, while the backend leverages Node.js and Express.js to handle server-side logic and API interactions. MongoDB serves as the database for storing user data, course information, assignments, and more.
+",
+  "Features": [
+  "User Roles (Administrators, Teachers, Students)",
+  "Course Management (Create, Modify, Delete Courses)",
+  "Content Uploads (PDFs, Videos)",
+  "Student Enrollment and Progress Tracking",
+  "Secure Authentication using JWT",
+  "Role-Based Access Control",
+  "Assignment Submission and Grading",
+  "Quiz Management",
+  "Discussion Forums for Student Interaction",
+  "Responsive Design for Mobile and Desktop Access",
+  "Integration with Cloud Services for Media Storage"
+]
+,
+  "Github": "",
+  "Img": "",
+  "Link": "",
+  "TechStack": [
+    "React",
+    "Express",
+    "MongoDB",
+    "Shadcn UI"
+  ],
+  "Title": "MERN Stack Learning Management System"
+},
+{
+  "Description": "It is designed to create an engaging and visually appealing platform for showcasing Non-Fungible Tokens (NFTs). Built with React.js, this project emphasizes a modern user interface that attracts potential buyers and art enthusiasts.",
+  "Features": ["Complex Animaitions in React", "use confetti in React JS for awesome background effects","Uses of Lazy and suspense in reactJS to make components load faster"],
+  "Github": "",
+  "Img": "",
+  "Link": "",
+  "TechStack": [
+    "React",
+    "GSAP",
+    "styled-components",
+    ""
+  ],
+  "Title": "NFT Collection Landing Page"
+},
+{
+  "Description": "The URL Shortener React App is a user-friendly web application designed to simplify the process of shortening long URLs, making them easier to share and manage. Built with React.js, this application offers a modern interface and efficient functionality, catering to individuals and businesses looking to enhance their online presence.",
+  "Features":  [
+  "User-Friendly Interface for URL input",
+  "Real-Time URL Shortening without page reloads",
+  "Link Management Dashboard for viewing, editing, and deleting links",
+  "Analytics Tracking for monitoring clicks on shortened links",
+  "Custom Short Links creation for enhanced branding",
+  "Responsive Design for seamless use across devices",
+  "Secure processing of URLs to ensure user safety",
+  "Fast response times for efficient user experience"
+],
+  "Github": "",
+  "Img": "",
+  "Link": "",
+  "TechStack": [ 
+    "Tailwind CSS",
+    "Supabase",
+    "Shadcn UI"
+    ]
+  "Title": "URL Shortener App"
+},
+{
+  "Description": "",
+  "Features": ["", ""],
+  "Github": "",
+  "Img": "",
+  "Link": "",
+  "TechStack": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "Title": ""
+}
+{
+  "Description": "",
+  "Features": ["", ""],
+  "Github": "",
+  "Img": "",
+  "Link": "",
+  "TechStack": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "Title": ""
+}
+{
+  "Description": "",
+  "Features": ["", ""],
+  "Github": "",
+  "Img": "",
+  "Link": "",
+  "TechStack": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "Title": ""
+}
+{
+  "Description": "",
+  "Features": ["", ""],
+  "Github": "",
+  "Img": "",
+  "Link": "",
+  "TechStack": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "Title": ""
+}
+{
+  "Description": "",
+  "Features": ["", ""],
+  "Github": "",
+  "Img": "",
+  "Link": "",
+  "TechStack": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "Title": ""
+}
+{
+  "Description": "",
+  "Features": ["", ""],
+  "Github": "",
+  "Img": "",
+  "Link": "",
+  "TechStack": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "Title": ""
+}
+{
+  "Description": "",
+  "Features": ["", ""],
+  "Github": "",
+  "Img": "",
+  "Link": "",
+  "TechStack": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "Title": ""
+}
+{
+  "Description": "",
+  "Features": ["", ""],
+  "Github": "",
+  "Img": "",
+  "Link": "",
+  "TechStack": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "Title": ""
+}
+{
+  "Description": "",
+  "Features": ["", ""],
+  "Github": "",
+  "Img": "",
+  "Link": "",
+  "TechStack": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "Title": ""
+}
+{
+  "Description": "",
+  "Features": ["", ""],
+  "Github": "",
+  "Img": "",
+  "Link": "",
+  "TechStack": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "Title": ""
+}
